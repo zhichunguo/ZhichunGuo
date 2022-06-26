@@ -1,2 +1,2 @@
-# [Zhichun Guo]
+# Zhichun Guo
 
