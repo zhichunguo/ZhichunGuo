@@ -25,12 +25,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD 
+    - course: Ph.D. in Computer Science 
       institution: University of Notre Dame
-      year: 2019
-    - course: BSc 
+      year: 2019-now
+    - course: BSc in Computer Science 
       institution: Fudan University
-      year: 2014
+      year: 2014-2019
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -61,7 +61,7 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'zguo5 at nd dot edu'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
