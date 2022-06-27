@@ -67,9 +67,6 @@ email: ''
 highlight_name: true
 ---
 
-Hi! I am a third-year Ph.D. student of University of Notre Dame. 
-<!-- Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi! I am a third-year Ph.D. student in Computer Science and Engineering at [University of Notre Dame](https://www.nd.edu/), supervised by Prof. [Nitesh Chawla](https://niteshchawla.nd.edu/). My research interests lie in graph machine learning and molecular representation learning.  
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
+<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.  -->
