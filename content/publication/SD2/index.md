@@ -29,8 +29,8 @@ publishDate: '2022-02-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: *IEEE TRANSACTIONS ON VISUALIZATION AND COMPUTER GRAPHICS*
-publication_short: *TVCG*
+publication: In *IEEE TRANSACTIONS ON VISUALIZATION AND COMPUTER GRAPHICS*
+publication_short: In *TVCG*
 
 abstract: Comprehensively evaluating and comparing researchers’ academic performance is complicated due to the intrinsic complexity of scholarly data. Different scholarly evaluation tasks often require the publication and citation data to be investigated in various manners. In this paper, we present an interactive visualization framework, SD2, to enable flexible data partition and composition to support various analysis requirements within a single system. SD2 features the hierarchical histogram, a novel visual representation for flexibly slicing and dicing the data, allowing different aspects of scholarly performance to be studied and compared. We also leverage the state-of-the-art set visualization technique to select individual researchers or combine multiple scholars for comprehensive visual comparison. We conduct multiple rounds of expert evaluation to study the effectiveness and usability of SD2 and revise the design and system implementation accordingly. The effectiveness of SD2 is demonstrated via multiple usage scenarios with each aiming to answer a specific, commonly raised question.
 
