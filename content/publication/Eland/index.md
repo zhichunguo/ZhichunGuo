@@ -1,17 +1,16 @@
 ---
-title: 'Few-shot Graph Learning for Molecular Property Prediction'
+title: 'Action sequence augmentation for early graph-based anomaly detection'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Zhichun Guo
-  - Chuxu Zhang
+  - Tong Zhao
+  - Bo Ni
   - Wenhao Yu
-  - John Herr
-  - Olaf Wiest
+  - Zhichun Guo
+  - Neil Shah
   - Meng Jiang
-  - Nitesh V. Chawla
 
 # Author notes (optional)
 # author_notes:
@@ -22,7 +21,7 @@ authors:
 # doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2021-04-01T00:00:00Z'
+publishDate: '2021-10-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -31,10 +30,10 @@ publishDate: '2021-04-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Proceedings of the Web Conference 2021*
-publication_short: In *WWW*
+publication: In *Proceedings of the 29th ACM International Conference on Information & Knowledge Management*
+publication_short: In *CIKM*
 
-abstract: The recent success of graph neural networks has significantly boosted molecular property prediction, advancing activities such as drug discovery. The existing deep neural network methods usually require large training dataset for each property, impairing their performance in cases (especially for new molecular properties) with a limited amount of experimental data, which are common in real situations. To this end, we propose Meta-MGNN, a novel model for few-shot molecular property prediction. Meta-MGNN applies molecular graph neural network to learn molecular representations and builds a meta-learning framework for model optimization. To exploit unlabeled molecular information and address task heterogeneity of different molecular properties, Meta-MGNN further incorporates molecular structures, attribute based self-supervised modules and self-attentive task weights into the former framework, strengthening the whole learning model. Extensive experiments on two public multi-property datasets demonstrate that Meta-MGNN outperforms a variety of state-of-the-art methods.
+abstract: The proliferation of web platforms has created incentives for online abuse. Many graph-based anomaly detection techniques are proposed to identify the suspicious accounts and behaviors. However, most of them detect the anomalies once the users have performed many such behaviors. Their performance is substantially hindered when the users’ observed data is limited at an early stage, which needs to be improved to minimize financial loss. In this work, we propose Eland, a novel framework that uses action sequence augmentation for early anomaly detection. Eland utilizes a sequence predictor to predict next actions of every user and exploits the mutual enhancement between action sequence augmentation and user-action graph anomaly detection. Experiments on three realworld datasets show that Eland improves the performance of a variety of graph-based anomaly detection methods. With Eland, anomaly detection performance at an earlier stage is better than non-augmented methods that need significantly more observed data by up to 15% on the Area under the ROC curve.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -49,8 +48,8 @@ featured: True
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://dl.acm.org/doi/pdf/10.1145/3442381.3450112?casa_token=abDoUPPH8vwAAAAA:J-RP6glR9pIbvqzqrZHpdAedFjj4kcejXf_VyJ-aGLQh0dMy8F3zKdl7GHuOV5l0N1Ij6cyFZtAqTQ'
-url_code: 'https://github.com/zhichunguo/Meta-MGNN'
+url_pdf: 'https://arxiv.org/pdf/2010.10016.pdf'
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''

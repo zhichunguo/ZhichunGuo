@@ -1,16 +1,15 @@
 ---
-title: 'Few-shot Graph Learning for Molecular Property Prediction'
+title: 'RecipeRec: A Heterogeneous Graph Learning Model for Recipe Recommendation'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Zhichun Guo
+  - Yijun Tian
   - Chuxu Zhang
-  - Wenhao Yu
-  - John Herr
-  - Olaf Wiest
-  - Meng Jiang
+  - Zhichun Guo
+  - Chao Huang
+  - Ronald Metoyer
   - Nitesh V. Chawla
 
 # Author notes (optional)
@@ -22,7 +21,7 @@ authors:
 # doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2021-04-01T00:00:00Z'
+publishDate: '2022-07-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -31,10 +30,10 @@ publishDate: '2021-04-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Proceedings of the Web Conference 2021*
-publication_short: In *WWW*
+publication: In *International Joint Conferences on Artificial Intelligence Organization*
+publication_short: In *IJCAI*
 
-abstract: The recent success of graph neural networks has significantly boosted molecular property prediction, advancing activities such as drug discovery. The existing deep neural network methods usually require large training dataset for each property, impairing their performance in cases (especially for new molecular properties) with a limited amount of experimental data, which are common in real situations. To this end, we propose Meta-MGNN, a novel model for few-shot molecular property prediction. Meta-MGNN applies molecular graph neural network to learn molecular representations and builds a meta-learning framework for model optimization. To exploit unlabeled molecular information and address task heterogeneity of different molecular properties, Meta-MGNN further incorporates molecular structures, attribute based self-supervised modules and self-attentive task weights into the former framework, strengthening the whole learning model. Extensive experiments on two public multi-property datasets demonstrate that Meta-MGNN outperforms a variety of state-of-the-art methods.
+abstract: Recipe recommendation systems play an essential role in helping people decide what to eat. Existing recipe recommendation systems typically focused on content-based or collaborative filtering approaches, ignoring the higher-order collaborative signal such as relational structure information among users, recipes and food items. In this paper, we formalize the problem of recipe recommendation with graphs to incorporate the collaborative signal into recipe recommendation through graph modeling. In particular, we first present URI-Graph, a new and largescale user-recipe-ingredient graph. We then propose RecipeRec, a novel heterogeneous graph learning model for recipe recommendation. The proposed model can capture recipe content and collaborative signal through a heterogeneous graph neural network with hierarchical attention and an ingredient set transformer. We also introduce a graph contrastive augmentation strategy to extract informative graph knowledge in a self-supervised manner. Finally, we design a joint objective function of recommendation and contrastive learning to optimize the model. Extensive experiments demonstrate that RecipeRec outperforms state-of-the-art methods for recipe recommendation. Dataset and codes are available at https://github.com/meettyj/RecipeRec.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -49,8 +48,8 @@ featured: True
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://dl.acm.org/doi/pdf/10.1145/3442381.3450112?casa_token=abDoUPPH8vwAAAAA:J-RP6glR9pIbvqzqrZHpdAedFjj4kcejXf_VyJ-aGLQh0dMy8F3zKdl7GHuOV5l0N1Ij6cyFZtAqTQ'
-url_code: 'https://github.com/zhichunguo/Meta-MGNN'
+url_pdf: 'https://arxiv.org/pdf/2205.14005.pdf'
+url_code: 'https://github.com/meettyj/RecipeRec'
 url_dataset: ''
 url_poster: ''
 url_project: ''
