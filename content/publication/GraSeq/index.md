@@ -40,7 +40,7 @@ abstract: With the recent advancement of deep learning, molecular representation
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: True
 
 # Custom links (uncomment lines below)
 # links:
