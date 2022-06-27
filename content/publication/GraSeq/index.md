@@ -20,7 +20,7 @@ authors:
 # doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2020-10'
+publishDate: '2020-10-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -47,8 +47,8 @@ featured: True
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: ''
+url_pdf: 'https://dl.acm.org/doi/pdf/10.1145/3340531.3411981'
+url_code: 'https://github.com/zhichunguo/GraSeq'
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -87,5 +87,5 @@ Click the _Cite_ button above to demo the feature to enable visitors to import p
 Create your slides in Markdown - click the _Slides_ button to check out the example.
 {{% /callout %}}
 
-[pdf](https://dl.acm.org/doi/pdf/10.1145/3340531.3411981)[code](https://github.com/zhichunguo/GraSeq)
+<!-- [pdf](https://dl.acm.org/doi/pdf/10.1145/3340531.3411981)[code](https://github.com/zhichunguo/GraSeq) -->
 <!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). -->
