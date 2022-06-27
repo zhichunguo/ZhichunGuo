@@ -25,13 +25,12 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
-  phone: 888 888 88 88
+  email: zguo5@nd.edu
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
+    street: 384 Nieuwland Science Hall
+    city: South Bend
+    region: IN
+    postcode: '46556'
     country: United States
     country_code: US
   coordinates:
