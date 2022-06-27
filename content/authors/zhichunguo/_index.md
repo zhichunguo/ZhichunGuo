@@ -66,9 +66,10 @@ email: 'zguo5 at nd dot edu'
 highlight_name: true
 ---
 
-Hi! I am a third-year Ph.D. student in Computer Science and Engineering at [University of Notre Dame](https://www.nd.edu/), supervised by Prof. [Nitesh Chawla](https://niteshchawla.nd.edu/). My research interests lie in graph machine learning and molecular representation learning.  
+Hi! I am a third-year (2019-now) Ph.D. student in Computer Science and Engineering at [University of Notre Dame](https://www.nd.edu/), supervised by Prof. [Nitesh Chawla](https://niteshchawla.nd.edu/). My research interests lie in graph machine learning and molecular representation learning.  
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.  -->
 
 **News!**
+[06/2022] I join [SnapChat](https://research.snap.com/) as a research intern in summer 2022.
 
