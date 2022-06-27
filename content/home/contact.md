@@ -28,7 +28,7 @@ content:
   email: zguo5@nd.edu
   address:
     street: 384 Nieuwland Science Hall
-    city: South Bend
+    city: Notre Dame
     region: IN
     postcode: '46556'
     country: United States
