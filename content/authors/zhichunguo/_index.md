@@ -70,6 +70,7 @@ Hi! I am a third-year (2019-now) Ph.D. student in Computer Science and Engineeri
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.  -->
 
-**News!**
+##News!
+
 [06/2022] I join [SnapChat](https://research.snap.com/) as a research intern in summer 2022.
 
