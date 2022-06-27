@@ -26,10 +26,10 @@ education:
   courses:
     - course: Ph.D. in Computer Science 
       institution: University of Notre Dame
-      year: 2019-now
+      year: now
     - course: BSc in Computer Science 
       institution: Fudan University
-      year: 2014-2019
+      year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
