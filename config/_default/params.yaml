@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© Zhichun Guo 2022'
     license:
       enable: true
       allow_derivatives: false
@@ -59,50 +59,50 @@ locale:
 
 # Site features
 
-features:
-  syntax_highlighter:
-    enable: true
-    extra_languages:
-      - r
-      - latex
-  math:
-    enable: false
-  privacy_pack:
-    enable: false
-  repository:
-    url: 'https://github.com/<username>/<repository>'
-    content_dir: content
-    branch: master
-  avatar:
-    gravatar: false
-    shape: circle
-  comment:
-    provider: ''
-    disqus:
-      shortname: ''
-      show_count: true
-    commento:
-      url: ''
-  search:
-    provider: wowchemy
-    algolia:
-      app_id: ''
-      api_key: ''
-      index_name: ''
-      show_logo: false
-  map:
-    provider: ''
-    api_key: ''
-    zoom: 15
+# features:
+#   syntax_highlighter:
+#     enable: true
+#     extra_languages:
+#       - r
+#       - latex
+#   math:
+#     enable: false
+#   privacy_pack:
+#     enable: false
+#   repository:
+#     url: 'https://github.com/<username>/<repository>'
+#     content_dir: content
+#     branch: master
+#   avatar:
+#     gravatar: false
+#     shape: circle
+#   comment:
+#     provider: ''
+#     disqus:
+#       shortname: ''
+#       show_count: true
+#     commento:
+#       url: ''
+#   search:
+#     provider: wowchemy
+#     algolia:
+#       app_id: ''
+#       api_key: ''
+#       index_name: ''
+#       show_logo: false
+#   map:
+#     provider: ''
+#     api_key: ''
+#     zoom: 15
 
 # Extensions
 
-extensions:
-  cms:
-    branch: main
-    local_backend: false
-  academicons:
-    enable: true
+# extensions:
+#   cms:
+#     branch: main
+#     local_backend: false
+#   academicons:
+#     enable: true
 
 # Security
 
