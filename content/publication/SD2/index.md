@@ -1,5 +1,5 @@
 ---
-title: 'SD2: Slicing and Dicing Scholarly Data for Interactive Evaluation of Academic Performance'
+title: 'SD\^{2}: Slicing and Dicing Scholarly Data for Interactive Evaluation of Academic Performance'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
