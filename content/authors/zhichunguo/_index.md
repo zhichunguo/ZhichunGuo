@@ -26,10 +26,10 @@ education:
   courses:
     - course: Ph.D. in Computer Science 
       institution: University of Notre Dame
-      year: now
-    - course: BSc in Computer Science 
+      year: 2019-now
+    - course: B.S. in Computer Science 
       institution: Fudan University
-      year: 2019
+      year: 2014-2019
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -71,5 +71,5 @@ Hi! I am a third-year (2019-now) Ph.D. student in Computer Science and Engineeri
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.  -->
 
 **News!**
-[06/2022] I join [SnapChat](https://research.snap.com/) as a research intern in summer 2022.
+[06/2022] I join [Snap Inc.](https://research.snap.com/) as a research intern in summer 2022.
 
