@@ -1,5 +1,5 @@
 ---
-title: 'GraSeq: Graph and Sequence Fusion Learning fro Molecular Property Prediction'
+title: 'GraSeq: Graph and Sequence Fusion Learning for Molecular Property Prediction'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
