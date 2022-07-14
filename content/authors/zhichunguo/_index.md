@@ -72,6 +72,6 @@ Hi! I am a third-year (2019-now) Ph.D. student in Computer Science and Engineeri
 
 **News!**
 
-[07/2022] Our survey ["Graph-based Molecular Representation Learning"](https://arxiv.org/pdf/2207.04869.pdf) is available.
+[07/2022] Our survey [Graph-based Molecular Representation Learning](https://arxiv.org/pdf/2207.04869.pdf) is available.
 [06/2022] I join [Snap Inc.](https://research.snap.com/) as a research intern in summer 2022.
 
