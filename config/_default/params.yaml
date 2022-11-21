@@ -6,9 +6,9 @@
 # Appearance
 
 appearance:
-  theme_day: Forest
-  theme_night: Forest
-  font: Forest
+  theme_day: earth
+  theme_night: earth
+  font: earth
   font_size: L
 
 # SEO
