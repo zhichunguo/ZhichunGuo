@@ -21,7 +21,7 @@ authors:
 # doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2021-10-01T00:00:00Z'
+publishDate: '2022-10-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -33,7 +33,7 @@ publication_types: ['3']
 publication: In *arXiv*
 publication_short: In *arXiv*
 
-abstract: Graph neural networks (GNNs) have shown remarkable performance on diverse graph mining tasks. Although different GNNs can be unified as the same message passing framework, they learn complementary knowledge from the same graph. Knowledge distillation (KD) is developed to combine the diverse knowledge from multiple models. It transfers knowledge from high-capacity teachers to a lightweight student. However, to avoid oversmoothing, GNNs are often shallow, which deviates from the setting of KD. In this context, we revisit KD by separating its benefits from model compression and emphasizing its power of transferring knowledge. To this end, we need to tackle two challenges: how to transfer knowledge from compact teachers to a student with the same capacity; and, how to exploit student GNN’s own strength to learn knowledge. In this paper, we propose a novel adaptive KD framework, called BGNN, which sequentially transfers knowledge from multiple GNNs into a student GNN. We also introduce an adaptive temperature module and a weight boosting module. These modules guide the student to the appropriate knowledge for effective learning. Extensive experiments have demonstrated the effectiveness of BGNN. In particular, we achieve up to 3.05% improvement for node classification and 7.67% improvement for graph classification over vanilla GNNs.
+abstract: Graph neural networks (GNNs) have shown remarkable performance on diverse graph mining tasks. Although different GNNs can be unified as the same message passing framework, they learn complementary knowledge from the same graph. Knowledge distillation (KD) is developed to combine the diverse knowledge from multiple models. It transfers knowledge from high-capacity teachers to a lightweight student. However, to avoid oversmoothing, GNNs are often shallow, which deviates from the setting of KD. In this context, we revisit KD by separating its benefits from model compression and emphasizing its power of transferring knowledge. To this end, we need to tackle two challenges how to transfer knowledge from compact teachers to a student with the same capacity; and, how to exploit student GNN’s own strength to learn knowledge. In this paper, we propose a novel adaptive KD framework, called BGNN, which sequentially transfers knowledge from multiple GNNs into a student GNN. We also introduce an adaptive temperature module and a weight boosting module. These modules guide the student to the appropriate knowledge for effective learning. Extensive experiments have demonstrated the effectiveness of BGNN. In particular, we achieve up to 3.05% improvement for node classification and 7.67% improvement for graph classification over vanilla GNNs.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
