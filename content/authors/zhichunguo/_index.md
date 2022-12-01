@@ -73,18 +73,11 @@ Hi! I am a fourth-year (2019-now) Ph.D. student in Computer Science and Engineer
 **News!**
 
 [12/2022] Thrilled to receive [Snap Research Fellowship](https://research.snap.com/fellowships.html). Thank you Snap!
-
 [11/2022] Two papers accepted by [LoG'22](https://logconference.org/).
-
 [11/2022] One paper accepted by [AAAI'23](https://aaai.org/Conferences/AAAI-23/).
-
 [10/2022] Two pre-print papers are on arXiv: 1.[Linkless Link Prediction via Relational Distillation](https://arxiv.org/pdf/2210.05801.pdf);  2.[Boosting Graph Neural Networks via Adaptive Knowledge Distillation](https://arxiv.org/pdf/2210.05920.pdf).
-
 [08/2022] Thrilled to receive [IEEE VIS Inclusivity & Diversity Scholarship](https://ieeevis.org/year/2022/info/inclusion-and-diversity/diversity-scholarship)! Thanks VIS!
-
 [08/2022] One paper accepted by [CIKM'22](https://www.cikm2022.org/).
-
 [07/2022] Our survey [Graph-based Molecular Representation Learning](https://arxiv.org/pdf/2207.04869.pdf) is available.
-
 [06/2022] Thrilled to start my summer internship at [Snap Inc.](https://research.snap.com/).
 
