@@ -1,16 +1,15 @@
 ---
-title: 'Link Prediction with Non-contrastive Learning'
+title: 'Nosmog: Learning Noise-robust and Structure-aware Mlps on Graphs'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - William Shiao
+  - Yijun Tian
+  - Chuxu Zhang
   - Zhichun Guo
-  - Tong Zhao
-  - Evangelos E. Papalexakis
-  - Yozen Liu
-  - Neil Shah
+  - Xiangliang Zhang
+  - Nitesh Chawla
 
 # Author notes (optional)
 # author_notes:
@@ -21,7 +20,7 @@ authors:
 # doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-11-25T00:00:00Z'
+publishDate: '2022-09-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -33,7 +32,7 @@ publication_types: ['3']
 publication: In *arXiv*
 publication_short: In *arXiv*
 
-abstract: Graph neural networks (GNNs) are prominent in the graph machine learning domain, owing to their strong performance across various tasks. A recent focal area is the space of graph self-supervised learning (SSL), which aims to derive useful node representations without labeled data. Notably, many state-of-theart graph SSL methods are contrastive methods, which use a combination of positive and negative samples to learn node representations. Owing to challenges in negative sampling (slowness and model sensitivity), recent literature introduced non-contrastive methods, which instead only use positive samples. Though such methods have shown promising performance in node-level tasks, their suitability for link prediction tasks, which are concerned with predicting link existence between pairs of nodes (and have broad applicability to recommendation systems contexts) is yet unexplored. In this work, we extensively evaluate the performance of existing non-contrastive methods for link prediction in both transductive and inductive settings. While most existing non-contrastive methods perform poorly overall, we find that, surprisingly, BGRL generally performs well in transductive settings. However, it performs poorly in the more realistic inductive settings where the model has to generalize to links to/from unseen nodes. We find that non-contrastive models tend to overfit to the training graph and use this analysis to propose T-BGRL, a novel non-contrastive framework that incorporates cheap corruptions to improve the generalization ability of the model. This simple modification strongly improves inductive performance in 5/6 of our datasets, with up to a 120% improvement in Hits@50—all with comparable speed to other non-contrastive baselines, and up to 14× faster than the best-performing contrastive baseline. Our work imparts interesting findings about non-contrastive learning for link prediction and paves the way for future researchers to further expand upon this area.
+abstract: While Graph Neural Networks (GNNs) have demonstrated their efficacy in dealing with non-Euclidean structural data, they are difficult to be deployed in real applications due to the scalability constraint imposed by multi-hop data dependency. Existing methods attempt to address this scalability issue by training multi-layer perceptrons (MLPs) exclusively on node content features using labels derived from trained GNNs. Even though the performance of MLPs can be significantly improved, two issues prevent MLPs from outperforming GNNs and being used in practice, the ignorance of graph structural information and the sensitivity to node feature noises. In this paper, we propose to learn NOiserobust Structure-aware MLPs On Graphs (NOSMOG) to overcome the challenges. Specifically, we first complement node content with position features to help MLPs capture graph structural information. We then design a novel representational similarity distillation strategy to inject structural node similarities into MLPs. Finally, we introduce the adversarial feature augmentation to ensure stable learning against feature noises and further improve performance. Extensive experiments demonstrate that NOSMOG outperforms GNNs and the state-of-the-art method in both transductive and inductive settings across seven datasets, while maintaining a competitive inference efficiency.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -48,7 +47,7 @@ featured: True
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/pdf/2211.14394.pdf'
+url_pdf: 'https://arxiv.org/pdf/2208.10010.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
