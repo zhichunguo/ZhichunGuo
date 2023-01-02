@@ -71,6 +71,7 @@ Hi! I am a fourth-year (2019-now) Ph.D. student in Computer Science and Engineer
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.  -->
 
 **News!**
+
 [12/2022] Thrilled to receive [AAAI-23 Student Scholarship](https://aaai.org/Conferences/AAAI-23/student-scholar-and-volunteer-program/). Thanks AAAI!
 
 [12/2022] Invited to serve as a PC member for [IJCAI'23](https://ijcai-23.org/) and [KDD'23](https://kdd.org/kdd2023/#)
