@@ -71,12 +71,15 @@ Hi! I am a fourth-year (2019-now) Ph.D. student in Computer Science and Engineer
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.  -->
 
 **News!**
+[12/2022] Thrilled to receive [AAAI-23 Student Scholarship](https://aaai.org/Conferences/AAAI-23/student-scholar-and-volunteer-program/). Thanks AAAI!
+
+[12/2022] Invited to serve as a PC member for [IJCAI'23](https://ijcai-23.org/) and [KDD'23](https://kdd.org/kdd2023/#)
 
 [12/2022] Thrilled to receive [Snap Research Fellowship](https://research.snap.com/fellowships.html). Thank you Snap!
 
 [11/2022] Two papers accepted by [LoG'22](https://logconference.org/).
 
-[11/2022] One paper accepted by [AAAI'23](https://aaai.org/Conferences/AAAI-23/).
+[11/2022] One paper accepted by [AAAI'23](https://aaai.org/Conferences/AAAI-23/). See you in Washington!
 
 [10/2022] Two pre-print papers are on arXiv: 1.[Linkless Link Prediction via Relational Distillation](https://arxiv.org/pdf/2210.05801.pdf);  2.[Boosting Graph Neural Networks via Adaptive Knowledge Distillation](https://arxiv.org/pdf/2210.05920.pdf).
 
