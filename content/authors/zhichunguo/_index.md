@@ -80,7 +80,7 @@ Hi! I am a fourth-year (2019-now) Ph.D. student in Computer Science and Engineer
 
 [11/2022] Two papers accepted by [LoG'22](https://logconference.org/).
 
-[11/2022] One paper accepted by [AAAI'23](https://aaai.org/Conferences/AAAI-23/). See you in Washington!
+[11/2022] One paper accepted by [AAAI'23](https://aaai.org/Conferences/AAAI-23/). See you in Washington DC!
 
 [10/2022] Two pre-print papers are on arXiv: 1.[Linkless Link Prediction via Relational Distillation](https://arxiv.org/pdf/2210.05801.pdf);  2.[Boosting Graph Neural Networks via Adaptive Knowledge Distillation](https://arxiv.org/pdf/2210.05920.pdf).
 
