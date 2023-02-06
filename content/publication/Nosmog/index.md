@@ -20,17 +20,17 @@ authors:
 # doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-09-01T00:00:00Z'
+publishDate: '2023-01-21T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['3']
+publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *arXiv*
-publication_short: In *arXiv*
+publication: In *ICLR*
+publication_short: In *ICLR*
 
 abstract: While Graph Neural Networks (GNNs) have demonstrated their efficacy in dealing with non-Euclidean structural data, they are difficult to be deployed in real applications due to the scalability constraint imposed by multi-hop data dependency. Existing methods attempt to address this scalability issue by training multi-layer perceptrons (MLPs) exclusively on node content features using labels derived from trained GNNs. Even though the performance of MLPs can be significantly improved, two issues prevent MLPs from outperforming GNNs and being used in practice, the ignorance of graph structural information and the sensitivity to node feature noises. In this paper, we propose to learn NOiserobust Structure-aware MLPs On Graphs (NOSMOG) to overcome the challenges. Specifically, we first complement node content with position features to help MLPs capture graph structural information. We then design a novel representational similarity distillation strategy to inject structural node similarities into MLPs. Finally, we introduce the adversarial feature augmentation to ensure stable learning against feature noises and further improve performance. Extensive experiments demonstrate that NOSMOG outperforms GNNs and the state-of-the-art method in both transductive and inductive settings across seven datasets, while maintaining a competitive inference efficiency.
 
