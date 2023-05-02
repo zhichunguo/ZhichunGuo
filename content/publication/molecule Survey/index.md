@@ -6,9 +6,14 @@ title: 'Graph-based Molecular Representation Learning'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - Zhichun Guo
+  - Kehan Guo
   - Bozhao Nan
-  - Yijun Tian 
+  - Yijun Tian
+  - Roshni G. Iyer
+  - Yihong Ma 
   - Olaf Wiest
+  - Xiangliang Zhang
+  - Wei Wang
   - Chuxu Zhang
   - Nitesh V. Chawla
 
@@ -21,19 +26,19 @@ authors:
 # doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-07-01T00:00:00Z'
+publishDate: '2023-04-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['3']
+publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *arXiv*
-publication_short: In *arXiv*
+publication: In *IJCAI*
+publication_short: In *IJCAI*
 
-abstract: Molecular representation learning (MRL) is a key step to build the connection between machine learning and chemical science. In particular, it encodes molecules as numerical vectors preserving the molecular structures and features, on top of which the downstream tasks (e.g., property prediction) can be performed. Recently, MRL has achieved considerable progress, especially in deep molecular graph learning-based methods. In this survey, we systematically review these graph-based molecular representation techniques. Specifically, we first introduce the data and features of the 2D and 3D graph molecular datasets. Then we summarize the methods specially designed for MRL and categorize them into four strategies. Furthermore, we discuss some typical chemical applications supported by MRL. To facilitate studies in this fastdeveloping area, we also list the benchmarks and commonly used datasets in the paper. Finally, we share our thoughts on future research directions.
+abstract: Molecular representation learning (MRL) is a key step to build the connection between machine learning and chemical science. In particular, it encodes molecules as numerical vectors preserving the molecular structures and features, on top of which the downstream tasks (e.g., property prediction) can be performed. Recently, MRL has achieved considerable progress, especially in methods based on deep molecular graph learning. In this survey, we systematically review these graphbased molecular representation techniques, especially the methods incorporating chemical domain knowledge. Specifically, we first introduce the features of 2D and 3D molecular graphs. Then we summarize and categorize MRL methods into three groups based on their input. Furthermore, we discuss some typical chemical applications supported by MRL. To facilitate studies in this fastdeveloping area, we also list the benchmarks and commonly used datasets in the paper. Finally, we share our thoughts on future research directions.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.

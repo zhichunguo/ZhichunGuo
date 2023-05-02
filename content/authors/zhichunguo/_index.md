@@ -72,6 +72,14 @@ Hi! I am a fourth-year (2019-now) Ph.D. student in Computer Science and Engineer
 
 **News!**
 
+[04/2023] One paper accepted by [ICML 2023](https://icml.cc/), on knowledge distillation for link prediction. See you in Hawaii!
+
+[04/2023] One survey paper accepted by [IJCAI 2023](https://ijcai-23.org/) Survey Track, on graph-based molecular representation learning. See you in Macao!
+
+[04/2023] Invited to serve as a Reviewer for [NeurIPS 2023](https://nips.cc/)
+
+[03/2023] One paper accepted by [Chemical Science](https://www.rsc.org/).
+
 [01/2023] Two papers accepted by [ICLR'23](https://iclr.cc/).
 
 [12/2022] Thrilled to receive [AAAI-23 Student Scholarship](https://aaai.org/Conferences/AAAI-23/student-scholar-and-volunteer-program/). Thanks AAAI!
