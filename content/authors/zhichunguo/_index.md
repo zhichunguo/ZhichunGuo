@@ -66,11 +66,17 @@ email: 'zguo5 at nd dot edu'
 highlight_name: true
 ---
 
-Hi! I am a fourth-year (2019-now) Ph.D. student in Computer Science and Engineering at [University of Notre Dame](https://www.nd.edu/), supervised by Prof. [Nitesh Chawla](https://niteshchawla.nd.edu/). My research interests lie in graph machine learning and molecular representation learning.  
+Hi! I am a fifth-year (2019-now) Ph.D. student in Computer Science and Engineering at [University of Notre Dame](https://www.nd.edu/), supervised by Prof. [Nitesh Chawla](https://niteshchawla.nd.edu/). My research interests lie in graph machine learning and molecular representation learning.  
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.  -->
 
 **News!**
+
+[09/2023] Invited to serve as a Reviewer for [ICLR 2024](https://iclr.cc/)
+
+[08/2023] Invited to serve as a Reviewer for [LoG 2023](https://logconference.org/) and [SDM 2024](https://www.siam.org/conferences/cm/conference/sdm24)
+
+[07/2023] Invited to serve as a Reviewer for [AAAI 2024](https://aaai.org/aaai-conference/)
 
 [04/2023] One paper accepted by [ICML 2023](https://icml.cc/), on knowledge distillation for link prediction. See you in Hawaii!
 
